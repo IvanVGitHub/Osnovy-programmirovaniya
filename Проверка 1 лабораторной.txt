@@ -1,0 +1,5 @@
+Проверка 1-ой лабораторной (1-ая функция)
+https://planetcalc.ru/620/?formulaText=(sin(1)-tg(1))%2F(cos(1)%5E2-1)
+
+Проверка 1-ой лабораторной (2-ая функция)
+https://planetcalc.ru/620/?formulaText=(sqrt(2)-sqrt(5))%2F(abs(2)-1)
